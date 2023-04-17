@@ -52,6 +52,7 @@
 - Tutorial
   - [XTLS Vision](https://github.com/chika0801/Xray-install)
   - [REALITY (English)](https://cscot.pages.dev/2023/03/02/Xray-REALITY-tutorial/)
+  - [REALITY for Iran (English) (Farsi translation needed)](https://github.com/SasukeFreestyle/XTLS-Iran-Reality)
 
 ## GUI Clients
 
